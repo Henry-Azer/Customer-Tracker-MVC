@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
 
 import customer.entity.Customer;
 
-@Repository
+@Repository("CustomerDAO")
 public class CustomerDAOImp implements CustomerDAO {
 	
 	@Autowired
