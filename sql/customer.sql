@@ -1,6 +1,21 @@
 -- MySQL dump 10.13  Distrib 8.0.20, for Win64 (x86_64)
 --
+-- By : henry azer
+-- Date : 07-07-2020
+-- College ID : 220190314
+-- WhatsApp : +201207885279
+-- Mail : henryazer@outlook.com
+--
 -- Host: 127.0.0.1    Database: web_customer_tracker
+-- ------------------------------------------------------
+--
+-- Crate Database
+--
+--
+DROP DATABASE IF EXISTS `web_customer_tracker`;
+CREATE DATABASE `web_customer_tracker`;  
+USE `web_customer_tracker`;
+--
 -- ------------------------------------------------------
 -- Server version	8.0.20
 
